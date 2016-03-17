@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Repositories and Interfaces"
 category : lessons
 tagline: "Part 1"
 tags : [SOLID, repositories, interface]
